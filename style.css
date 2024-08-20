@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    border: 2px solid gray;
+    
+}
+
+ul button {
+    text-decoration: none;
+    list-style-type: none;
+    margin: 2rem;
+    padding: 1rem;
+}
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
